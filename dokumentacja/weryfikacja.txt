@@ -1,9 +1,0 @@
-Weryfikacja rozwiązania INF.04-02-25.01-SG
-
-1. Python: 3 testy zakończone poprawnie. Sprawdzono granice 1 i 12, błędne wartości 0, 13, -1 i 44, reset numeru programu oraz włączanie i wyłączanie bez powtarzania komunikatów. Uruchomiono program z wejściem 11, 44 i abc.
-2. Android: assembleDebug, assembleDebugAndroidTest i lintDebug zakończone BUILD SUCCESSFUL. Lint nie zgłosił błędów; ostrzeżenia dotyczą dostępnych aktualizacji zależności, polskiego słowa Autor, tła i umieszczenia zdjęć w drawable.
-3. Emulator Pixel 5, Android 16 API 36: 3 testy zakończone poprawnie, 0 błędów i 0 pominiętych. Sprawdzono stan początkowy, zatwierdzenie programu 4, granice 1 i 12, wejście puste, 0, 13 i bardzo długą liczbę, oba stany odkurzacza oraz odtworzenie aktywności.
-4. Zrzuty mobile1–mobile4 pochodzą z rzeczywistego uruchomienia testów: stan początkowy, program 4, odkurzacz włączony, odkurzacz wyłączony. Pokazują cały ekran Androida. Zrzuty całego pulpitu macOS z paskiem systemowym, otwartym środowiskiem i oknem konsoli należy wykonać ręcznie, zgodnie z arkuszem.
-5. APK znajduje się w mobilna/urzadzenia-domowe.apk. Kompilacja przebiegła na kopii identycznych źródeł na obrazie APFS, ponieważ dysk ADATA używa exFAT. Domyślne ścieżki .gradle i .android wskazują na niezamontowany wolumin Dev, dlatego użyto osobnych katalogów roboczych. Nie zmieniano globalnych ustawień tych ścieżek.
-
-Przed oddaniem należy uzupełnić numer zdającego w strings.xml i komentarzu main.py oraz ponownie zbudować APK i odświeżyć archiwa. Fizyczne nagranie płyty pozostaje do wykonania przez zdającego.

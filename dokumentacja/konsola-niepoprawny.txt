@@ -1,5 +1,0 @@
-Podaj numer prania 1..12
-Podano niepoprawny numer programu
-Odkurzacz włączono
-Odkurzacz wyładował się
-Odkurzacz wyłączono
