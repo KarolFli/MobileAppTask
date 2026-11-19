@@ -13,3 +13,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Generated macOS metadata, Python caches and Android outputs
+._*
+**/build/
+__pycache__/
+
+# Local hand-in packages and duplicate exported sources
+/mobilna/
+/rozwiazanie-semestr-1.zip
+/konsolowa/konsola.zip

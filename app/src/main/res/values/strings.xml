@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Urządzenia Domowe</string>
+    <string name="candidate_number">DO_UZUPEŁNIENIA</string>
+    <string name="author">Autor: %1$s</string>
+    <string name="washing_machine">Pralka</string>
+    <string name="washing_hint">Podaj nr prania 1..12</string>
+    <string name="confirm">Zatwierdź</string>
+    <string name="washing_not_set">Numer prania: nie podano</string>
+    <string name="washing_program">Numer prania: %1$d</string>
+    <string name="washing_error">Podaj liczbę od 1 do 12</string>
+    <string name="vacuum_cleaner">Odkurzacz</string>
+    <string name="turn_on">Włącz</string>
+    <string name="turn_off">Wyłącz</string>
+    <string name="vacuum_off">Odkurzacz wyłączony</string>
+    <string name="vacuum_on">Odkurzacz włączony</string>
+    <string name="charged">Status: naładowany</string>
 </resources>
